@@ -4,10 +4,6 @@ A full-screen terminal alphabet game for babies and toddlers. Press any letter
 and the screen fills with a huge colorful letter, a matching animal word, a
 same-letter color, and a small animal icon.
 
-![Baby Alphabet preview](assets/preview.png)
-
-
-
 https://github.com/user-attachments/assets/2dba04c0-9312-43b5-acec-1614df7084f4
 
 
