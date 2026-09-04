@@ -6,7 +6,11 @@ same-letter color, and a small animal icon.
 
 ![Baby Alphabet preview](assets/preview.png)
 
-[Watch the short demo](assets/demo.mov)
+
+
+https://github.com/user-attachments/assets/2dba04c0-9312-43b5-acec-1614df7084f4
+
+
 
 ## What It Does
 
